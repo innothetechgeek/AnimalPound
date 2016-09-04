@@ -27,7 +27,7 @@ import java.util.List;
 /**
  * Created by Game330 on 2016-08-27.
  */
-@RestController
+@Controller
 public class AnimalController {
     @Autowired
     private AnimalService myService;
