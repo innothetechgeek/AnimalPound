@@ -21,7 +21,7 @@ import java.util.List;
 /**
  * Created by Game330 on 2016-08-28.
  */
-@RestController
+@Controller
 public class AdoptionController{
     @Autowired
     private AdoptionService myService;
