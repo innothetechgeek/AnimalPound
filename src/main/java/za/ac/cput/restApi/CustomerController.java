@@ -25,7 +25,7 @@ import java.util.Set;
  */
 
 
-@RestController
+@Controller
 public class CustomerController {
 
     @Autowired
