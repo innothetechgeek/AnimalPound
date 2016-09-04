@@ -48,8 +48,6 @@
             <artifactId>liquibase-core</artifactId>
             <version>3.4.1</version>
         </dependency>
-        
-        <dependencies>
     <dependency>
       <groupId>org.testng</groupId>
       <artifactId>testng</artifactId>
@@ -107,14 +105,6 @@
     </dependency>
         
     </dependencies>
-  
-
-
-
-    
-    
-    
-
     <properties>
         <java.version>1.8</java.version>
     </properties>
